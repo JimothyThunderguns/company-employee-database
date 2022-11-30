@@ -7,4 +7,4 @@ INSERT INTO role (name)
 VALUES ("Sales");
 
 INSERT INTO department (name)
-VALUES ("Finance");
+VALUES ("Finance")
